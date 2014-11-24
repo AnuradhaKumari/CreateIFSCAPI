@@ -1,4 +1,4 @@
-BANKIFSCCODE
+CreateIFSCAPI
 ============
 State Bank of India branches of Prakasam with IFSC Codes.
 
