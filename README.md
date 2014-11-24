@@ -1,6 +1,16 @@
 CreateIFSCAPI
 ============
-State Bank of India branches of Prakasam with IFSC Codes.
+To create your own API, You need following:
+
+1. You should have hands on experience in any programming language, i prefer php which was a bit easier.
+
+2. Keep your data base clean with unique keys and indexes to make your data clean and faster.
+
+3. Develop an interface to provide your data via an API.
+
+4. Create at least one step authentication to protect your database from attacks and prevent absuing your server resoures.
+
+5. The sample data output for format: JSON ( End user output from JSON)
 
 Jrc , Bareilly
 State Bank Of India ifsc code for Jrc , Bareilly is SBIN0010312 as per the IfscCodeRBI. The State Bank Of India MICR code for Jrc , Bareilly is 243002022. State Bank Of India customer care phone number for Jrc , Bareilly branch is 9411608219.
